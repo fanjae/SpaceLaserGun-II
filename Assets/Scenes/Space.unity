@@ -1332,7 +1332,7 @@ GameObject:
   - component: {fileID: 1737116502}
   - component: {fileID: 1737116501}
   m_Layer: 0
-  m_Name: TankLifeUI
+  m_Name: LifeUI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
