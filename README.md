@@ -1,4 +1,4 @@
-# Space Laser Gun, 레이저를 발사하여 행성을 파괴하는 미니게임
+# Space Laser Gun II, 포탑으로 몰려오는 행성을 막는 디펜스 미니게임
 <img width="620" height="400" alt="Image" src="https://github.com/user-attachments/assets/53289691-3b20-48a4-9b88-90be348459e0" />
 
 > Unity에서 코루틴을 활용한 몬스터 웨이브 구현 과제 내용을 바탕으로 만든 디펜스 형태의 미니 게임입니다.
