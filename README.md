@@ -36,4 +36,4 @@
 | X | 레이저 발사 |
 
 ## 플레이 영상
-[![플레이 영상]](https://youtu.be/6DI_aC5Ks_g)
+[플레이 영상](https://youtu.be/6DI_aC5Ks_g)
